@@ -8,10 +8,9 @@
 
 ### Project Description
 
-````
+<p text-align: justify;>
 Leave Management System (LMS) is a software application designed to streamline and automate the process of leave application and approval in educational institutions such as universities. It provides a centralized platform for students to apply for leaves and for faculty members to review and approve them. The system maintains a record of leave requests, tracks leave balances, and generates reports for analysis. It simplifies administrative tasks, reduces paperwork, and ensures transparent and efficient leave management. The system improves communication between students and faculty, saves time and resources, and enhances overall productivity in managing leaves within the university.
-
-````
+</p>
 
 ### Module Split-up
 
