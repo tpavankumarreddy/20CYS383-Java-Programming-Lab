@@ -1,0 +1,12 @@
+Leave Application Submitted:
+Leave From: Mon Jul 17 21:11:37 IST 2023
+Leave Until: Mon Jul 17 21:11:37 IST 2023
+Reason: OD
+Apply To: HOD
+
+Leave Application Submitted:
+Leave From: Mon Jul 17 21:23:30 IST 2023
+Leave Until: Mon Jul 17 21:23:30 IST 2023
+Reason: OD
+Apply To: Advisor
+
